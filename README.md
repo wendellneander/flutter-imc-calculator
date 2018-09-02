@@ -1,8 +1,5 @@
-# imc
+# IMC calculator
 
-A new Flutter application.
+A simple IMC calculator in flutter
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+### Project carried out for academic purposes
